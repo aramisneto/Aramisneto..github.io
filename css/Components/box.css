@@ -1,0 +1,15 @@
+.box{
+background-color: #62C370;
+width: 458px;
+box-shadow: 10px 10px 0 #828282;
+text-align: center;
+padding: 20px 0px;
+}
+
+.box .tittle {
+    margin: 21px;
+}
+
+.box .subttitle{
+    margin-bottom: 20px;
+}
