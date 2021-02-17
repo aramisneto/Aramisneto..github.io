@@ -1,0 +1,15 @@
+.main-tittle{
+    font-family: 'Fira Code', monospace;
+    font-size: 55px;
+    font-weight: 700;
+    color: white;
+    text-shadow: 2px 3px #6e6e6e;
+}
+
+.main-tittle.-second{
+    font-size: 55px;
+    font-weight: 700;
+    color:white;
+    text-shadow: 2px 3px #6e6e6e;
+    text-align: center;
+}
