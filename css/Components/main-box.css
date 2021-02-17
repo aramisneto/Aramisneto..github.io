@@ -1,0 +1,16 @@
+.main-box{
+background-color: #60c36f;
+box-shadow: 10px 10px 0 #828282;
+text-align: center;
+margin-top: 50px;
+margin-left: 20px;
+padding: 20px 0px;
+}
+
+.main-box .main-tittle {
+    margin: 21px;
+}
+
+.main-box .subttitle{
+    margin-bottom: 20px;
+}
